@@ -64,7 +64,7 @@ class IgCommands {
 			'cmdRestartRound' => 'Restart round', // Restarts round
 			'cmdSwitchPlayer' => 'Switch player {!player}', // Switch player
 			'cmdExecRcon' => 'Execute RCON {cmd}', //Executes RCON Command and returns RCON response
-			'cmdClosePoll' => 'Closes active poll session' //Closes poll (map or kick) 
+			'cmdClosePoll' => 'Closes active poll session', //Closes poll (map or kick) 
 			
 			/**
 			 * Public commands
