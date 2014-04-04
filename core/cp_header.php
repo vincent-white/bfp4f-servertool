@@ -170,7 +170,7 @@ if(!$user->checkLogin()) {
 							<li><a href="<?=HOME_URL?>#credits"><i class="fa fa-block fa-heart"></i> <?=$lang['cp_menu_credits']?></a></li>
 							<li><a href="http://battlefieldtools.com/donate" target="_blank"><i class="fa fa-block fa-gift"></i> <?=$lang['cp_menu_donate']?></a></li>
 							<li class="divider"></li>
-							<li><a href="https://battlefieldtools.com/forum/forum/4" target="_blank"><i class="fa fa-block fa-bug"></i> <?=$lang['cp_menu_report_bug']?></a></li>
+							<li><a href="https://battlefieldtools.com/support/?page=buglist" target="_blank"><i class="fa fa-block fa-bug"></i> <?=$lang['cp_menu_report_bug']?></a></li>
 							<li><a href="https://battlefieldtools.com/forum/forum/4" target="_blank"><i class="fa fa-block fa-lightbulb-o"></i> <?=$lang['cp_menu_subm_sug']?></a></li>
 							<li class="divider"></li>
 							<li><a href="https://github.com/dyhli/bfp4f-servertool/wiki/Q&A" target="_blank"><i class="fa fa-block fa-question-circle"></i> <?=$lang['cp_menu_qa']?></a></li>
